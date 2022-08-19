@@ -10,6 +10,7 @@ public class Sample
       System.out.println("Hello Quantum");
       System.out.println("Hello Ego");
       System.out.println("Hello Knowhere");
-      System.out.println("Hello Planet X");  
+      System.out.println("Hello Planet X"); 
+      System.out.println("Hello GT");
     }
 }
