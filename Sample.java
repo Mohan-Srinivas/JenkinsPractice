@@ -12,5 +12,7 @@ public class Sample
       System.out.println("Hello Knowhere");
       System.out.println("Hello Planet X"); 
       System.out.println("Hello GT");
+        System.out.println("Hello GT1");
+      
     }
 }
